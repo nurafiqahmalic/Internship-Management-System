@@ -32,7 +32,18 @@ To use the DBMS, follow these steps:
 
 ## Usage
 
-# Step 1 (Homepage)
+# Student Homepage
 <div id="header" align="center">
  <img src="https://imgtr.ee/images/2024/04/02/a014e1b4edcc16c4642c71c88320a8a2.png" alt="a014e1b4edcc16c4642c71c88320a8a2.png" />
 </div>
+
+1. Click on Register Button and fill in the information
+2. Proceed on Login and upload the resumes
+3. Your resumes has succesfully sent to your desired company
+
+# Admin Homepage
+<div id="header" align="center">
+ <img src="https://imgtr.ee/images/2024/04/02/baf9d6ddb160057e5ab17b372df2b198.png" alt="baf9d6ddb160057e5ab17b372df2b198.png" border="0" />
+</div>
+
+1. The sidebar consists of: Home, Accounts, Upload Internships, Student Profile, Options
