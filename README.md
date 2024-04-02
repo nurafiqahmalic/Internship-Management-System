@@ -34,5 +34,5 @@ To use the DBMS, follow these steps:
 
 # Step 1 (Homepage)
 <div id="header" align="center">
-  <img src="https://imgtr.ee/image/Igi0iH" width="100">
+ <img src="https://imgtr.ee/images/2024/04/02/a014e1b4edcc16c4642c71c88320a8a2.png" alt="a014e1b4edcc16c4642c71c88320a8a2.png" width="100"/>
 </div>
