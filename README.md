@@ -34,7 +34,7 @@ To use the DBMS, follow these steps:
 
 # Student Homepage
 <div id="header" align="center">
- <img src="https://imgtr.ee/images/2024/04/02/a014e1b4edcc16c4642c71c88320a8a2.png" alt="a014e1b4edcc16c4642c71c88320a8a2.png" />
+ <img src="https://imgtr.ee/images/2024/04/02/fc798a77e522fd9ed0b18636583a5851.png" alt="fc798a77e522fd9ed0b18636583a5851.png" border="0" />
 </div>
 
 1. Click on Register Button and fill in the information
@@ -46,4 +46,11 @@ To use the DBMS, follow these steps:
  <img src="https://imgtr.ee/images/2024/04/02/baf9d6ddb160057e5ab17b372df2b198.png" alt="baf9d6ddb160057e5ab17b372df2b198.png" border="0" />
 </div>
 
-1. The sidebar consists of: Home, Accounts, Upload Internships, Student Profile, Options
+1. Click "Admin" button and insert "admin" as both username and password
+2. The sidebar consists of: Home, Accounts, Upload Internships, Student Profile, Options
+
+## Database (db_issm)
+
+<div id="header" align="center">
+ <img src="https://imgtr.ee/images/2024/04/02/3387dee5cb1167651988a93452bef51c.png" alt="3387dee5cb1167651988a93452bef51c.png" border="0" />
+</div>
