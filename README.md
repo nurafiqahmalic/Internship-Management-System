@@ -34,5 +34,5 @@ To use the DBMS, follow these steps:
 
 # Step 1 (Homepage)
 <div id="header" align="center">
-  <a href="https://ibb.co/nR7xKMY"><img src="https://i.ibb.co/nR7xKMY/ipro7.png" alt="ipro7" border="0"></a>
+  <a href="https://ibb.co/nR7xKMY"><img src="https://i.ibb.co/nR7xKMY/ipro7.png" alt="ipro7" width="100"></a>
 </div>
